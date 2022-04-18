@@ -87,6 +87,9 @@ header ul li a {
     text-decoration: none;
 }
 
+.imgBox{
+    z-index: 1; /*(modificação de imagem na frente*/
+}
 
 .content .imgBox{
     width: 600px;
